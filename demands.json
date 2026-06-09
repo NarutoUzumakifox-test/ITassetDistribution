@@ -1,0 +1,20 @@
+{
+  "ADRM": {
+    "demanded": {
+      "additional": {
+        "PC": 0
+      },
+      "replacement": {
+        "PC": 100
+      }
+    },
+    "supplied": {
+      "additional": {
+        "PC": 0
+      },
+      "replacement": {
+        "PC": 44
+      }
+    }
+  }
+}
